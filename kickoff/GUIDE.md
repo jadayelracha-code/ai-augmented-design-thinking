@@ -1,8 +1,8 @@
-# Phase 0: Design Challenge
+# Kick Off: Design Challenge
 
-> Goal: before any research or ideation, scope the challenge, assemble the right people, and prepare. Phase 0 is the setup that determines whether everything downstream is aimed at the right target.
+> Goal: before any research or ideation, scope the challenge, assemble the right people, and prepare. The Kick Off is the setup that determines whether everything downstream is aimed at the right target.
 
-Skipping Phase 0 is the most common reason design thinking efforts drift. A well-framed challenge and a prepared team save weeks of wandering later.
+Skipping the Kick Off is the most common reason design thinking efforts drift. A well-framed challenge and a prepared team save weeks of wandering later.
 
 ---
 
@@ -33,7 +33,7 @@ Ask AI to brainstorm stakeholder categories you might have overlooked (regulator
 ## Where AI will mislead you
 
 - AI can't assemble your team or read your org's politics. Stakeholder *influence* is contextual and human.
-- A confident-looking scope is not a validated one. Phase 0 outputs are starting hypotheses, not decisions.
+- A confident-looking scope is not a validated one. Kick Off outputs are starting hypotheses, not decisions.
 
 ---
 
@@ -70,4 +70,4 @@ real domain knowledge, so flag anything you're unsure about.
 - [ ] Have I mapped stakeholders and their influence?
 - [ ] Is the team aligned on the challenge, not just individually briefed?
 
-See [`TEMPLATE.md`](./TEMPLATE.md) for the scoping and stakeholder worksheet, and [`AGENT.md`](./AGENT.md) for the **Design Thinking Coach** — a portable agent that coaches you through setting up Phase 0 properly and won't let you rush into research half-prepared.
+See [`TEMPLATE.md`](./TEMPLATE.md) for the scoping and stakeholder worksheet, and [`AGENT.md`](./AGENT.md) for the **Design Thinking Coach** — a portable agent that coaches you through setting up the Kick Off properly and won't let you rush into research half-prepared.

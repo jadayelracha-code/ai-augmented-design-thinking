@@ -19,13 +19,13 @@ The guiding principle: **AI handles volume, humans hold judgment.**
 ## The journey: 8 phases, two diamonds
 
 ```
-Phase 0 ──▶ [ 🔷 PROBLEM SPACE ]  ──▶  [ 🔶 SOLUTION SPACE ]  ──▶ Pitch
+Kick Off ──▶ [ 🔷 PROBLEM SPACE ]  ──▶  [ 🔶 SOLUTION SPACE ]  ──▶ Pitch
   Design      Understand · Observe        Ideate · Prototype       Stakeholder
   Challenge   · Point of View             · Test                   Presentation
 ```
 
-### Phase 0 — Design Challenge
-Scope the challenge and prepare before diverging. Includes a **Design Thinking Coach** agent that actively coaches you through setup. [`/phase-0-design-challenge`](./phase-0-design-challenge)
+### Kick Off — Design Challenge
+Scope the challenge and prepare before diverging. Includes a **Design Thinking Coach** agent that actively coaches you through setup. [`/kickoff`](./kickoff)
 
 ### 🔷 Problem space — *are we solving the right problem?*
 | Phase | Folder | Focus |
