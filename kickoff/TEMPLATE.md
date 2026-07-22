@@ -1,4 +1,4 @@
-# Phase 0 — Design Challenge Worksheet
+# Kick Off — Design Challenge Worksheet
 
 ## Challenge statement
 > One or two sentences: what challenge are we taking on?
