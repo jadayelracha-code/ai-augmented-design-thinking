@@ -70,4 +70,4 @@ real domain knowledge, so flag anything you're unsure about.
 - [ ] Have I mapped stakeholders and their influence?
 - [ ] Is the team aligned on the challenge, not just individually briefed?
 
-See [`TEMPLATE.md`](./TEMPLATE.md) for the scoping and stakeholder worksheet.
+See [`TEMPLATE.md`](./TEMPLATE.md) for the scoping and stakeholder worksheet, and [`AGENT.md`](./AGENT.md) for the **Design Thinking Coach** — a portable agent that coaches you through setting up Phase 0 properly and won't let you rush into research half-prepared.

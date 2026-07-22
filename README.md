@@ -25,7 +25,7 @@ Phase 0 ──▶ [ 🔷 PROBLEM SPACE ]  ──▶  [ 🔶 SOLUTION SPACE ]  �
 ```
 
 ### Phase 0 — Design Challenge
-Scope the challenge and prepare before diverging. [`/phase-0-design-challenge`](./phase-0-design-challenge)
+Scope the challenge and prepare before diverging. Includes a **Design Thinking Coach** agent that actively coaches you through setup. [`/phase-0-design-challenge`](./phase-0-design-challenge)
 
 ### 🔷 Problem space — *are we solving the right problem?*
 | Phase | Folder | Focus |
