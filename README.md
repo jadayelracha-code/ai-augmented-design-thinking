@@ -25,7 +25,7 @@ Kick Off ──▶ [ 🔷 PROBLEM SPACE ]  ──▶  [ 🔶 SOLUTION SPACE ]  �
 ```
 
 ### Kick Off — Design Challenge
-Scope the challenge and prepare before diverging. Includes a **Design Thinking Coach** agent that actively coaches you through setup. [`/kickoff`](./kickoff)
+Scope the challenge, set boundaries, and prepare before diverging. [`/kickoff`](./kickoff)
 
 ### 🔷 Problem space — *are we solving the right problem?*
 | Phase | Folder | Focus |
@@ -48,17 +48,34 @@ Turn the validated solution into a compelling case. [`/pitch`](./pitch)
 
 ## How to use this repo
 
-Each phase folder contains:
-- A **guide** (`GUIDE.md`) — the method, the tools, where AI genuinely helps, and where it will mislead you.
-- **Prompts** — copy-and-adapt, embedded in each guide.
-- A **template** (`TEMPLATE.md`) — a fill-in worksheet.
-- A **checklist** — a "before you move on" gut-check at the foot of each guide.
+Each phase folder contains three files:
+
+- **`GUIDE.md`** — the method, the tools, where AI genuinely helps, and where it will mislead you. Copy-and-adapt prompts are embedded throughout, and each guide ends with a "before you move on" checklist.
+- **`TEMPLATE.md`** — a fill-in worksheet for capturing that phase's outputs.
+- **`AGENT.md`** — a portable AI agent for that phase (see below).
+
+### Meet Rasha 👋
+
+Every phase ships with an agent named **Rasha**, your design thinking coach. She's the same persona across all eight phases, so you get one consistent guide through the whole journey.
+
+Rasha is deliberately built to be **friendly but not soft**. She:
+- Interviews you **one question at a time** rather than dumping a checklist
+- Won't accept a vague answer — she'll help you sharpen it before moving on
+- Offers **three options with an honest opinion** when you're stuck
+- **Stays in her lane** — each phase's agent works only on that phase's template, and will tell you when a question belongs to a different phase
+- Pushes back when your thinking is weak, and says so plainly
+
+**Tool-agnostic by design.** Each `AGENT.md` is plain markdown containing a system prompt. Copy it into Claude, ChatGPT, Cursor, Windsurf, opencode, or anything else. No proprietary config, no lock-in.
+
+**To use one:** open the phase's `AGENT.md`, copy the system prompt block, paste it into your AI tool of choice, and start talking. Capture the outputs in that phase's `TEMPLATE.md`.
 
 ---
 
 ## Who this is for
 
 Product managers, designers, founders, and teams who want to move faster through design thinking without hollowing out the human core that makes it work.
+
+It works solo too — the agents are built to challenge you when there's no one else in the room to do it.
 
 ---
 
