@@ -1,8 +1,7 @@
 # Shared cases
 
 Behaviors that every phase's `AGENT.md` must pass, since they're part of the
-Rasha persona itself, not any one phase's content. Not yet written — planned
-cases, one file each:
+Rasha persona itself, not any one phase's content. One file each:
 
 - `one-question-at-a-time.md` — never bundles multiple questions into a
   single message
